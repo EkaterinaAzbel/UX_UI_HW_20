@@ -1,10 +1,12 @@
 body, h1, h2, p {
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 .navbar-nav {
     justify-content: center;
+    background-color: #f8f9fa;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -28,7 +30,6 @@ section h2 {
     color: #333;
 }
 
-/* Style section paragraphs */
 section p {
     font-size: 16px;
     line-height: 1.6;
@@ -49,7 +50,7 @@ section p {
 }
 
 .container {
-    background-color: #f8f9fa;
+    background-color: #0f76ea76;
     padding: 40px;
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
